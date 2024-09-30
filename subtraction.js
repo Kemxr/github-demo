@@ -1,5 +1,5 @@
 function subtract(a, b) {
-  return '?';
+  return a - b;
 }
-
+//Soustraction
 calculate('subtraction', subtract);
